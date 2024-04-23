@@ -1,7 +1,7 @@
 # Word Hunt Saga
 
 ## Introduction
-Word Hunt Saga is a JavaFX-based game inspired by the popular Wordle game. It challenges players to guess a hidden word (TARGET_WORD) with a limited number of attempts. The game features a simple graphical interface and includes background music to enhance the gaming experience.
+Word Hunt Saga is a JavaFX-based game inspired by the popular Wordle game. It challenges players to guess a hidden Common word (TARGET_WORD) with a limited number of attempts. The game features a simple graphical interface and includes background music to enhance the gaming experience.
 
 ## Features
 - Guess the target word with a maximum of five attempts.
