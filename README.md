@@ -31,12 +31,6 @@ To run Word Hunt Saga, you will need:
 - Add a score tracking system.
 - Provide hints to users after certain incorrect guesses.
 
-## Contributions
-Contributions are welcome! Please feel free to submit pull requests or create issues for bugs and feature requests.
-
-## License
-[MIT License](LICENSE)
-
 ## Author
 - David Xie
 
