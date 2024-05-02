@@ -7,13 +7,14 @@ Word Hunt Saga is a JavaFX-based game inspired by the popular Wordle game. It ch
 - **Interactive GUI**: A responsive and intuitive graphical user interface built with JavaFX.
 - **Timed Gameplay**: Each game session is timed to increase the challenge.
 - **Results Tracking**: Players' attempts and times are logged for future reference.
-- **Dynamic Word Grid**: The game grid adjusts dynamically based on the word length and gameplay progress.
+- **Dynamic Word Grid**: The game grid of a 5x5 with over 3000-word library that is chosen at random
 - **Sound Effects**: Includes media playback features to enhance user experience.
 
 ## Prerequisites
 To run this application, you'll need:
 - JDK 11 or higher
 - JavaFX SDK (compatible with your JDK version)
+- For the Media Files, place them into your OS or a destination. I have mine in the (O:) drive. You will have to change the code for the file destination if it doesn't match mine 
   
 ## How to Play
 1. Start the game, and you will be greeted with a welcome message.
